@@ -14,7 +14,7 @@ lazy val root = (project in file("."))
       
       // Google Cloud dependencies
       "com.google.cloud" % "google-cloud-secretmanager" % "2.63.0",
-      "com.google.cloud" % "google-cloud-storage" % "2.63.0",
+      // "com.google.cloud" % "google-cloud-storage" % "2.63.0",
       
       // Database drivers
       "com.oracle.database.jdbc" % "ojdbc8" % "21.9.0.0",
